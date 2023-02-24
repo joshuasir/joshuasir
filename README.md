@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuasir" alt="joshuasir" /></a> </p>
 
-- 🔭 I’m currently working in **Bina Nusantara as Junior Programmer, Kudata as Programmer**
+- 🔭 I’m currently working in **Bina Nusantara as Junior Programmer**
 
 - 💬 Ask me about **anything**
 
